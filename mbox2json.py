@@ -5,7 +5,6 @@ usage: ./mbox2json.py $MBOX > $MBOX.json
        ./mbox2json.py ../cfp/cfp.all > /tmp/cfp.all.json
 convert mbox containing tuebix 2016 papers to json
 """
-
 #TODO:
     # not json compatible ? Zeichensalat aus: /^(\d\d)\.(\d\d)\.(\d{4})$/
     # json ends with comma },] but should be without }]
